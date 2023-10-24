@@ -1,0 +1,515 @@
+*{
+    font-family: 'MarkOT', sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: linear-gradient(to bottom, #fcc311 0%, #fcc90d 100%);
+}
+.nav-bar{
+    height: 92px;
+    width: 1170px;
+    margin-top: 21px;
+    margin-left: 90px;
+    margin-right: 90px;
+    background-color: #ffe600;
+    display: flex;
+
+}
+.logo-img{
+    width: 85px;
+}
+.logo{
+    margin-left: 15px;
+}
+
+ul{
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    margin-left: -40px;
+   
+}
+.searchi{
+    font-size: 25px;
+}
+.search{
+    padding-left: 13px;
+    padding-top: 4px;
+}
+.menu-bar{
+    
+    margin: auto;
+    
+}   
+.menu{
+    font-size: 19px;
+    letter-spacing: 1px;
+    line-height: 19px;
+    text-decoration: none;
+    font-weight: 600;
+    color: black;
+    text-align: center;
+    margin: 3px;  
+    border-radius: 10px;
+    padding: 10px;
+}
+.ES{
+    font-size: 19px;
+    font-weight: 600;
+    padding: 5px;
+    color: black;
+    background-color: #ffe600;
+}
+.ES:hover{
+    color: white;
+    background-color: red;
+}
+.searchi{
+
+}
+.menu:hover{
+    color: #fff;
+    background-color: red;
+}
+
+.blay-img{
+    width: 1170px;
+    height: 425px;
+    margin: 20px 90px 0 90px;
+}
+.img-1{
+    background-image: url(Images/Background\ img.jpeg);
+    height: 771px;
+    width: 1170px;
+    margin: 20px 90px 0px 90px;
+    padding-top: 7px;
+}
+h1{
+    font-size: 95px;
+    line-height: 95px;
+    text-align: left;
+    letter-spacing: 1px;
+    color: white;
+}
+.h1{
+   margin-left: 80px;
+}
+.carosil{
+    display: flex;
+}
+.carosil-i1{
+    height: 336px;
+    width: 336px;
+    margin-left: 82px;
+
+}
+.carosil-i2{
+    height: 336px;
+    width: 336px;
+}
+.caro-img1{
+    height: 336px;
+    width: 336px;
+}  
+.caro-1{
+    height: 180px;
+    width: 336px;
+    background-color: #F8931F;
+    margin-top: -5px;
+    color: #FFF;
+    display: flex;
+}
+h3{
+    margin-top: 15px;
+    font-size: 35px;
+    margin-left: 13px;
+    color: #fff;
+}
+.view{
+    width: 126px;
+    height: 40px;
+    font-size: 16px;
+    margin-top: 116px;
+    margin-left: -113px;
+    border-radius: 21px;
+    border-style: none;
+    background-color: red;
+    color: #fff;
+}
+.view:hover{
+    color: black;
+    background-color: yellow;
+}
+.registerd{
+  margin-top: 17px;
+}
+.caro-2{
+    height: 180px;
+    width: 336px;
+    background-color: #83D8EE;
+    margin-top: -4px;
+}
+.but-lays{
+    padding-top: 20px;
+}
+.lay{
+  font-size: 25px;
+  text-align: left;
+  margin-left: 17px;
+  color: #fff;
+}
+.regi1{
+    margin-bottom: 10px;
+    color: white;
+}
+.regi11{
+    margin-left: 83px;
+    margin-top: -34px;
+}
+
+.bet{
+    width: 292px;
+    height: 77px;
+    font-size: 31px;
+    font-weight: bold;
+    line-height: 40px;
+    text-align: left;
+    margin-top: 6px;
+    color: #fff;
+    margin-bottom: 3px;
+}
+register1{
+    color: #fff;
+}
+.view1{
+    width: 126px;
+    height: 40px;
+    font-size: 16px;
+    margin-top: -11px;
+    margin-left: 24px;
+    border-radius: 21px;
+    border-style: none;
+    color: #fff;
+    background-color: red;
+}
+.view1:hover{
+    color: black;
+    background-color: #ffe600;
+}
+.caro-3{
+    height: 180px;
+    width: 336px;
+    background-color: #383A6F;
+    margin-top: -4px;
+}
+.lay2{
+    font-size: 25px;
+    line-height: 40px;
+    letter-spacing: -1px;
+    font-weight: 600;
+    text-align: left;
+    margin-left: 17px;
+    color: #fff;
+}
+.but2-lays{
+    padding-top: 20px;
+}
+.regi12{
+    margin-left: 13px;
+    margin-top: -37px;
+}
+
+.regi2{
+   color: #fff;
+   margin-left: 72px;
+}
+.dip{
+  font-size: 35px;
+}
+
+.reciep-home{
+    margin: -54px 90px 0 90px;
+    background-image: url(Images/potato\ chips.jpg);
+    width: 1170px;
+    height: 726px;
+}
+.reciep-head{
+
+}
+.reciep-head1{
+    width: 1010px;
+    height: 30px; 
+    padding-top: 39px;
+    padding-left: 108px;
+}
+.slide2{
+    display: flex;
+    margin: 102px 64px 0px 96px;
+}
+.sli1{ 
+    width: 314px;
+    height: 280px;
+    background-image: url(Images/LAY\'S\ CRUSTED\ lay\ 2.png);
+    margin: 14px 16px 14px 16px;
+}
+.sli2{
+    width: 314px;
+    height: 280px;
+    background-image: url(Images/LAY’S\ POTATO\ CHIP\ MAGIC\ lay3.png);
+    margin: 14px 16px 14px 16px;
+}
+.sli3{
+    width: 314px;
+    height: 280px;
+    background-image: url(Images/lay\ img3.jpg);
+    margin: 14px 16px 14px 16px;
+}
+.yellow-slid1{
+    width: 314px;
+    height: 176px;
+    background-color: #FEE002;
+    margin: 14px 16px 14px 6px; 
+}
+.yellow-slid2{
+    width: 314px;
+    height: 176px;
+    background-color: #FEE002; 
+    margin: 14px 16px 14px 16px;
+}
+
+.yellow-rec{
+    display: flex;
+    margin: 0px 64px 0px 64px;
+    margin: -28px 64px 0px 96px;
+}
+.yellow-slid3{
+    width: 314px;
+    height: 176px;
+    background-color: #FEE002; 
+    margin: 14px 16px 14px 16px;
+}
+.yel1-main{
+    width: 254px;
+    height: 28px;
+    margin: 30px 30px 0px 30px;
+}
+.yel1{
+    font-size: 23px;
+    font-family: Markot-Bold,sans-serif;
+    font-weight: 600;
+}
+.yeli-home{
+    margin-left: 94px;
+    margin-top: -32px;
+}
+.yeli-but{
+    width: 154px;
+    height: 40px;
+    border-radius: 20px;
+    border-style: none;
+    border-radius: 20px;
+    margin-left: 33px;
+    margin-top: 50px;
+    color: white;
+    font-size: 16px;
+    background-color: red;
+
+}
+.yeli-but:hover{
+    background-color: #2097C9 ;
+}
+.star-icon{
+    font-size: 23px;
+    margin-left: 24px;
+    color: rgb(246, 34, 34);
+}   
+.star-icon:hover{
+    color: blue;
+}
+.yel2-main{
+    margin: 30px ;
+}
+.yel2{
+    font-size: 23px;
+    font-family: Markot-Bold,sans-serif;
+    font-weight: 600;
+    
+}
+.yeli1-home{
+    margin-left: 92px;
+    margin-top: -63px;
+}
+.video-head{
+    background-image: url(Images/Green\ img.jpg);
+    width: 1170px;
+    height: 765px;
+    margin: 25px 0px 0px 89px;
+}
+.video-h1{
+    margin: 50px;
+    padding-top: 1px;
+   
+
+}
+.main-video{
+    display: flex;
+}
+
+
+.video-frame iframe{
+    width: 700px;
+    height: 500px;
+    margin: 50px;
+    margin: -49px 0px 0px 50px;
+}
+
+.potato-thieve{
+    width: 340px;
+    height: 80px;
+    margin-top: 157px;
+    margin-left: 36px;
+}
+.thie-p{
+    font-size: 40px;
+    color: #fff;
+    font-family:  Marrkot-Bold, sans-serif;
+}
+.thieve-i{
+    margin-top: 20px;
+    color: #fff;
+}
+h4{
+    margin-top: -39px;
+    font-size: 32px;
+    margin-left: 116px;
+    color: #fff;
+    font-family: Marrkot-Bold, sans-serif;
+}
+
+.socila-theme{
+    background-image: url(Images/Social-img.jpg);
+    width: 1170px;
+    height: 960px;
+    margin: 28px 60px 0px 89px;
+}
+.social-head{
+    margin-left: 94px;
+}
+.social-head h1{
+    padding-top: 50px;
+}
+.social-photo{
+    display: flex;
+    margin-left: 98px;
+}
+.theme1{
+    width: 324px;
+    height: 324px;
+    background-image: url(Images/socia-img1.png);
+}
+
+.theme2{
+    width: 324px;
+    height: 324px;
+    background-image: url(Images/social-img2.png);
+}
+.theme3{
+    width: 324px;
+    height: 324px;
+    background-image: url(Images/social-img3.png);
+}
+.theme4{
+    width: 324px;
+    height: 324px;
+    background-image: url(Images/social-img4.png);
+}
+.theme5{
+    width: 324px;
+    height: 324px;
+    background-image: url(Images/social-img5.png); 
+}
+.theme6{
+    width: 324px;
+    height: 324px;
+    background-image: url(Images/social-img6.png); 
+}
+.footer-img{
+    width: 1170px;
+    height: 174px;
+        margin: 28px 60px 0px 89px;
+    background-image: url(Images/footer-img.jpg);
+}
+.footer-img{
+    display: flex;
+    justify-content: center;
+}
+.youtube{
+    position: relative;
+    left: 276px;
+    max-width: 88px;
+    max-height: 77px;
+    top: 48px;
+}
+.instagram{
+    position: relative;
+    left: 209px;
+    max-width: 88px;
+    max-height: 77px;
+    top: 48px;
+}
+.twitter{
+  position: relative;
+    left: 142px;
+    max-width: 88px;
+    max-height: 77px;
+    top: 48px;
+}
+.facebook{
+  position: relative;
+    left: 80px;
+    max-width: 88px;
+    max-height: 77px;
+    top: 48px;
+}
+.footer{
+    width: 1360px;
+    height: 264px;
+    margin-top: 20px;
+    background: linear-gradient(to bottom, #fcc311 0%, #fcc90d 100%);
+}
+.footer-menu{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    
+}
+.ft-menu{
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 18px;
+    padding: 10px;
+    line-height: 16px;
+    color: black;
+    margin: 21px;
+    font-family: MarkoT,sans-serif;
+    
+}
+.ft-menu:hover{
+  color: #fff;
+  background-color: red;
+}
+.ft-logo{
+    position: relative;
+    left: 561px;
+    width: 148px;
+    height: 143px;
+}
+.c-right p{
+    position: relative;
+    left: 436px;
+}
+
